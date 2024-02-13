@@ -16,7 +16,7 @@ You can add some bullet points if you'd like to:
 - List item 2
 - List item 3
 
-## Built With
+## I have experience with the following tech stack
 
 You can list a the tech stack that you've used over here
 
@@ -32,7 +32,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com/mjohank
 ```
 
 2. Install the dependencies:
@@ -63,10 +63,8 @@ This is where you can leave your social links for people to contact you, such as
 
 [My LinkedIn page](www.linkedin.com)
 
+[My yolo page](www.startsiden.no)
+
 ## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
 ## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
