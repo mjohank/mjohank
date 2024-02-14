@@ -1,4 +1,4 @@
-# Hi, I'm Michael Knudsen!
+# Hi, I'm Michael Knudsen! 👋
 
 Welcome to my Github page! I'm a budding Frontend Developer, currently honing my skills at Noroff, with a passion for creating engaging, user-friendly websites and applications.
 
@@ -10,7 +10,7 @@ Welcome to my Github page! I'm a budding Frontend Developer, currently honing my
 
 👨‍👩‍👧‍👦 At the heart of my life are my two sons and a bonus daughter. They remind me daily of the importance of patience, learning, and the joy found in discovery. Balancing family life with my studies in Haugesund, I strive to lead by example, showing them the value of pursuing one's passion and lifelong learning.
 
-## What I'm focused on
+## What I'm focused on 🔎
 
 Currently, I'm dedicated to building a solid foundation in frontend development, with a particular interest in accessibility, responsive design, and user experience — key areas that I believe are crucial for any frontend developer in today's digital landscape.
 
@@ -26,7 +26,7 @@ Currently, I'm dedicated to building a solid foundation in frontend development,
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
-## Let's connect
+## Let's connect 🤝
 
 I'm always open to connecting with fellow developers, designers, music enthusiasts, and anyone interested in tech and creative pursuits. Feel free to reach out if you want to collaborate on a project, share insights, or just have a chat about technology, music, or gaming.
 
