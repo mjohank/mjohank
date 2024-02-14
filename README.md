@@ -1,4 +1,4 @@
-# Hey there, I'm Michael Knudsen!
+# Hi, I'm Michael Knudsen!
 
 Welcome to my Github page! I'm a budding Frontend Developer, currently honing my skills at Noroff, with a passion for creating engaging, user-friendly websites and applications.
 
