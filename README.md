@@ -32,4 +32,4 @@ I'm always open to connecting with fellow developers, designers, music enthusias
 
 ### How to reach me
 
-- 📫 Email: mjohandev@gmail.com
+📫 Email: mjohandev@gmail.com
