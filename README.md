@@ -6,11 +6,11 @@ Welcome to my Github page! I'm a budding Frontend Developer, currently honing my
 
 ## A bit more About me
 
-- 🌱 Learning and growing: I am deeply immersed in the world of frontend development, constantly updating my skills to stay in tune with the latest trends and technologies in the field as of 2024.
+🌱 Learning and growing: I am deeply immersed in the world of frontend development, constantly updating my skills to stay in tune with the latest trends and technologies in the field as of 2024.
 
-- 🎵 Passions beyond code: When I'm not buried in code, I love creating music. It's my way of expressing creativity and unwinding. Gaming is another passion of mine, offering both an escape and inspiration for my development work.
--
-- 👨‍👩‍👧‍👦 At the heart of my life are my two sons and a bonus daughter. They remind me daily of the importance of patience, learning, and the joy found in discovery. Balancing family life with my studies in Haugesund, I strive to lead by example, showing them the value of pursuing one's passion and lifelong learning.
+🎵 Passions beyond code: When I'm not buried in code, I love creating music. It's my way of expressing creativity and unwinding. Gaming is another passion of mine, offering both an escape and inspiration for my development work.
+
+👨‍👩‍👧‍👦 At the heart of my life are my two sons and a bonus daughter. They remind me daily of the importance of patience, learning, and the joy found in discovery. Balancing family life with my studies in Haugesund, I strive to lead by example, showing them the value of pursuing one's passion and lifelong learning.
 
 ## What I'm focused on
 
@@ -26,22 +26,10 @@ I'm always open to connecting with fellow developers, designers, music enthusias
 
 ## I have experience with the following tech stack
 
-<p align="center">
+<p>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-
-Thank you for stopping by my profile!
-
-## Description
-
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
-- Semester Project 1
-- Cross-course Project
-- Project Exam 1
