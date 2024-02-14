@@ -26,6 +26,11 @@ Currently, I'm dedicated to building a solid foundation in frontend development,
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
+## Some of the projects I have created are showcased in my portfolio
+
+- My portfolio site:
+- Github page for my portfolio:
+
 ## Let's connect 🤝
 
 I'm always open to connecting with fellow developers, designers, music enthusiasts, and anyone interested in tech and creative pursuits. Feel free to reach out if you want to collaborate on a project, share insights, or just have a chat about technology, music, or gaming.
