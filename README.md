@@ -6,7 +6,7 @@ Welcome to my Github page! I'm a budding Frontend Developer, currently honing my
 
 🌱 I am deeply immersed in the world of frontend development, constantly updating my skills to stay in tune with the latest trends and technologies in the field as of 2024.
 
-🎵 When I'm not buried in code, I love creating music. It's my way of expressing creativity and unwinding. Gaming is another passion of mine, offering both an escape and inspiration for my development work. I also love to read books. Preferably while soaking up the sun on a newly discovered beach or enjoying an Americano in a cozy cafe.
+🎵 When I'm not buried in code, I love creating music. It's my way of expressing creativity and unwinding. Gaming is another passion of mine, offering both an escape and inspiration for my development work. I also love to read books. Preferably while soaking up the sun on a newly discovered beach or while enjoying an Americano in a cozy cafe.
 
 👨‍👩‍👧‍👦 At the heart of my life are my two sons, a bonus daughter and my girlfriend through many years. They remind me daily of the importance of patience, learning, and the joy found in discovery. Balancing family life with my studies, I strive to lead by example, showing them the value of pursuing one's passion and lifelong learning.
 
