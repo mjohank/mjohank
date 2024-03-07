@@ -2,7 +2,7 @@
 
 Welcome to my Github page! I'm a budding Frontend Developer, currently honing my skills at Noroff School of Technology, with a passion for creating engaging, user-friendly websites and applications.
 
-## A bit more About me
+## About me
 
 🌱 I am deeply immersed in the world of frontend development, constantly updating my skills to stay in tune with the latest trends and technologies in the field as of 2024.
 
