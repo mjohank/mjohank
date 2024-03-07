@@ -28,8 +28,8 @@ Currently, I'm dedicated to building a solid foundation in frontend development,
 
 ## Some of the projects I have created are showcased in my portfolio
 
-- My portfolio site:
-- Github page for my portfolio:
+- [My portfolio site] (https://michaelknudsen.netlify.app/)
+- [Github page for my portfolio] (https://github.com/mjohank/Portfolio)
 
 ## Let's connect 🤝
 
